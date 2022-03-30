@@ -1,0 +1,329 @@
+compa compb bpa bpb bpazeotrope  fraccompa
+water    n-propanol    100    97.2    87.72    0.2831
+water    allanol    100    96.95    88    0.28
+water    isopropanol    100    82.44    80.37    0.121
+water    tertiary butanol    100    82.55    79.91    0.1176
+water    ethanol    100    78.3    78.15    0.0443
+trimethylethylene    carbondisulphide    37.15    46.25    36.5    0.83
+trimethylethylene    methylformate    37.15    31.9    24.3    0.46
+trimethylethylene    methylal    37.15    42.25    35.3    0.27
+trimethylethylene    ethylbromide    37.15    38.38    35.2    0.4
+toluene    a-epichlorhydrin    110.7    116.45    108.25    0.74
+toluene    stannicchloride    110.7    113.85    109.15    0.48
+tetrachlorethylene    ethyl carbonate    120.8    126    118.55    0.74
+tetrachlorethylene    paraldehyde    120.8    124    118.75    0.68
+tetrachlorethylene    ethyl butyrate    120.8    119.9    118.4    0.62
+tetrachlorethylene    a-epichlorhydrin    120.8    116.45    110.12    0.485
+tert-butanol    1,3-cyclohexadiene    82.55    80.8    73.4    0.385
+tert-butanol    cyclohexene    82.55    82.75    73.7    0.38
+tert-butanol    cyclohexane    82.55    80.75    71.8    0.37
+tert-butanol    benzene    82.55    80.2    73.95    0.366
+tert-butanol    carbon tetrachloride    82.55    76.75    69.5    0.17
+tert-butanol    trichlorethylene    82.55    86.95    75    0.16
+terpinene    ethyl acetoacetate    181    180.7    171    0.51
+pyridine    water    115.5    100    92.6    0.57
+propylchloride    carbondisulphide    46.6    46.25    45.2    0.45
+propanol    epichlorhydrin    97.2    116.4    96    0.77
+propanol    diethylketone    97.2    102.2    94.9    0.57
+propanol    nitromethane    97.2    101.2    89.15    0.56
+propanol    tetrachlorethylene    97.2    120.8    94    0.54
+propanol    ethyl propionate    97.2    99.1    93.4    0.51
+propanol    propyliodide    97.2    102.4    90.2    0.3
+propanol    allyliodide    97.2    102    90    0.29
+propanol    dichloro-bromo-methane    97.2    90.2    86.4    0.195
+propanol    trichlorethylene    97.2    86.95    81.75    0.17
+propanol    carbon tetrachloride    97.2    76.75    72.8    0.115
+propanol    propylbromide    97.2    71    69.2    0.09
+propanol    ethyliodide    97.2    72.3    70.1    0.078
+propanol    isobutylchloride    97.2    68.9    67.2    0.07
+propionic acid    bromobenzene    140.7    156.15    139.85    0.6
+propionic acid    pinene    140.7    155.8    136.15    0.585
+propionic acid    p-xylene    140.7    138.2    132    0.36
+propionic acid    m-xylene    140.7    139    132.65    0.355
+propionic acid    ethyl benzene    140.7    136.15    131.1    0.28
+propionic acid    chlorobenzene    140.7    131.8    128.75    0.18
+propionic acid    water    140.7    100    99.98    0.177
+propionic acid    ethylenebromide    140.7    131.5    127.75    0.175
+propionic acid    tetrachlorethylene    140.7    120.8    118.95    0.085
+pinene    mesitylene    163.8    164    162.7    0.52
+phenol    iodobenzene    181.5    188.55    177.7    0.47
+phenol    p-bromotoluene    181.5    185    176.2    0.44
+phenol    carvene    181.5    177.8    169    0.405
+phenol    o-bromotoluene    181.5    181.75    174.35    0.4
+phenol    a-pinene    181.5    155.8    152.75    0.19
+phenol    pentachlorethane    181.5    161.95    160.85    0.095
+phenol    chlorotoluene    181.5    161.3    160.3    0.08
+phenetol    propyl lactate    171.5    171.7    167.l0    0.5
+phenetol    methyloxalate    171.5    163.3    161.25    0.3
+pentachlorethane    methyloxalate    161.95    163.3    157.55    0.68
+p-xylene    propylene dibromide    138.2    141.7    137.5    0.78
+p-xylene    ethyl chloracetate    138.2    143.5    137    0.72
+p-chlorotoluene    methyloxalate    161.3    163.3    157    0.6
+p-bromotoluene    ethyl oxalate    185    185    180.4    0.473
+p-bromotoluene    aniline    185    184.35    180.3    0.4
+octanol    aniline    178.7    184.35    177.8    0.65
+octanol    carvene    178.7    177.8    174.4    0.35
+o-cresol    iodobenzene    190.8    188.55    185    0.32
+o-cresol    p-bromotoluene    190.8    185    181.7    0.25
+o-cresol    carvene    190.8    177.8    175.35    0.25
+o-cresol    o-bromotoluene    190.8    181.75    180.3    0.16
+o-chlorotoluene    ethyl lactate    159    154.5    153.5    0.35
+o-bromotoluene    aniline    181.75    184.35    178.65    0.63
+o-bromotoluene    ethyl oxalate    181.75    185    177.35    0.6
+o-bromotoluene    isobutyl lactate    181.75    182.15    180    0.56
+naphthalene    p-chlorophenol    218.1    217    215.9    0.365
+n-propanol    n-octane    97.2    125.8    95    0.74
+n-propanol    toluene    97.2    110.6    92.6    0.49
+n-propanol    cyclohexene    97.2    82.75    76.6    0.216
+n-propanol    1,3-cyclohexadiene    97.2    80.8    76.1    0.21
+n-propanol    cyclohexane    97.2    80.75    74.3    0.2
+n-propanol    benzene    97.2    80.2    77.12    0.169
+n-propanol    n-hexane    97.2    68.95    65.65    0.04
+n-pentane    carbondisulphide    36.15    46.25    35.5    0.85
+n-pentane    ethyl hydrogen sulphide    36.15    36.2    32    0.5
+n-pentane    methylformate    36.15    31.9    21.8    0.47
+n-pentane    ethylether    36.15    34.6    33.4    0.3
+n-hexane    propylbromide    68.95    71    67.5    0.67
+n-hexane    isobutylchloride    68.95    68.85    66.3    0.45
+n-hexane    chloroform    68.95    61.2    59.95    0.28
+n-heptane    methylcyclohexane    98.45    101.8    98    0.8
+n-butanol    methylisovalerate    116.9    116.3    113    0.33
+n-butanol    toluene    116.9    110.6    105.5    0.32
+n-butanol    cyclohexane    116.9    80.75    79.8    0.1
+methylpropylketone    nitromethane    102.25    101.2    99.15    0.44
+methylpropylketone    propyl acetate    102.25    101.55    101.35    0.38
+methylpropylether    methylformate    38.9    31.9    30.5    0.2
+methyliodide    carbondisulphide    42.6    46.25    41.65    0.59
+methyliodide    methylal    42.6    42.2    39.35    0.57
+methylethylketone    water    79.57    100    73.57    0.886
+methylethylketone    propyl formate    79.6    80.8    79.45    0.55
+methylethylketone    methylpropionate    79.6    79.7    79.25    0.52
+methanol    acetonitrile    64.7    81.6    63.45    0.81
+methanol    methylcyclohexane    64.7    101.8    60    0.7
+methanol    n-heptane    64.7    98.45    60.5    0.62
+methanol    propyliodide    64.7    102.4    63.5    0.61
+methanol    isobutylbromide    64.7    91.6    61.4    0.42
+methanol    dichloro-bromo-methane    64.7    90.2    63.8    0.4
+methanol    cyclohexene    64.7    82.75    55.9    0.4
+methanol    benzene    64.7    80.2    58.34    0.3955
+methanol    1,3-cyclohexadiene    64.7    80.8    56.38    0.388
+methanol    cyclohexane    64.7    80.75    54.2    0.372
+methanol    trichlorethylene    64.7    86.95    60.2    0.36
+methanol    n-hexane    64.7    68.95    50    0.269
+methanol    tert-butylbromide    64.7    73.3    55.6    0.24
+methanol    isobutylchloride    64.7    68.9    53.05    0.23
+methanol    diallyl    64.7    60.2    47.05    0.225
+methanol    carbon tetrachloride    64.7    76.75    55.7    0.2056
+methanol    propylbromide    64.7    71    54.1    0.202
+methanol    methylacetate    64.7    57    54    0.19
+methanol    ethyliodide    64.7    72.3    54.7    0.185
+methanol    methylal    64.7    42.2    41.82    0.182
+methanol    ethyl formate    64.7    54.15    50.95    0.16
+methanol    carbondisulphide    64.7    46.2    37.65    0.14
+methanol    chloroform    64.7    61.2    53.5    0.125
+methanol    ethylidenechloride    64.7    57.3    49.05    0.115
+methanol    methyliodide    64.7    44.5    39    0.072
+methanol    trimethylethylene    64.7    37.15    31.75    0.07
+methanol    ethylbromide    64.7    38.4    34.95    0.045
+methanol    isopentane    64.7    27.95    24.5    0.04
+mesitylene    methyloxalate    164    163.3    154.8    0.502
+m-xylene    methyllactate    139    144.8    134    0.7
+m-xylene    propylene dibromide    139    141.7    138    0.7
+m-xylene    ethyl chloracetate    139    143.5    137.25    0.68
+m-xylene    isoamyl acetate    139    138.8    136    0.5
+isovaleric acid    carvene    176.5    177.8    168.9    0.41
+isovaleric acid    o-bromotoluene    176.5    181.75    172.1    0.395
+isopropylchloride    carbondisulphide    36.25    46.25    36    0.78
+isopropanol    isobutyliodide    82.45    120    81.8    0.76
+isopropanol    toluene    82.45    110.6    80.6    0.69
+isopropanol    acetonitrile    82.5    81.6    75    0.55
+isopropanol    cyclohexene    82.45    82.75    71    0.36
+isopropanol    1,3-cyclohexadiene    82.45    80.8    70.4    0.36
+isopropanol    benzene    82.45    80.2    71.92    0.333
+isopropanol    cyclohexane    82.45    80.75    68.6    0.33
+isopropanol    methylethylketone    82.45    79.6    77.3    0.3
+isopropanol    ethyl acetate    82.45    77.05    74.8    0.23
+isopropanol    n-hexane    82.45    68.95    61    0.22
+isopropanol    isobutylchloride    82.45    68.9    63.8    0.17
+isopropanol    carbondisulphide    82.45    46.2    44.6    0.08
+isopentane    ethylbromide    27.95    38.38    23.5    0.7
+isopentane    methylformate    27.95    31.9    17.05    0.53
+isomylhexanol    pinene    160.65    155.8    149.9    0.355
+isomanol    o-xylene    131.8    142.6    128    0.6
+isobutyric acid    carvene    154.35    177.8    151    0.78
+isobutyric acid    pentachlorethane    154.35    161.95    152.9    0.43
+isobutyric acid    bromobenzene    154.35    156.15    148.6    0.35
+isobutyric acid    pinene    154.35    155.8    146.7    0.35
+isobutyric acid    water    154.35    100    99.3    0.21
+isobutyric acid    s-tetrachlorethane    154.35    146.25    144.8    0.07
+isobutyliodide    isoamyl formate    120    123.6    117.5    0.7
+isobutyliodide    a-epichlorhydrin    120    116.45    110    0.53
+isobutylchloride    acetone    68.9    56.25    55.8    0.27
+isobutanol    ethyl benzene    108    136.15    107.4    0.8
+isobutanol    chlorobenzene    108    131.8    107.2    0.63
+isobutanol    ethylenebromide    108    131.5    106.2    0.605
+isobutanol    epichlorhydrin    108    116.4    105    0.605
+isobutanol    toluene    108    110.6    101.15    0.445
+isobutanol    isoamylbromide    108    120.2    103.8    0.41
+isobutanol    tetrachlorethylene    108    120.8    103.05    0.4
+isobutanol    diethylketone    108    102.2    101.95    0.22
+isobutanol    propyliodide    108    102.4    96    0.18
+isobutanol    cyclohexene    108    82.75    80.5    0.142
+isobutanol    cyclohexane    108    80.75    78.1    0.14
+isobutanol    1,3-cyclohexadiene    108    80.8    79.35    0.12
+isobutanol    dichloro-bromo-methane    108    90.2    89.3    0.11
+isobutanol    benzene    108.05    80.2    79.84    0.093
+isobutanol    trichlorethylene    108    86.95    85.4    0.09
+isobutanol    carbon tetrachloride    108    76.75    75.8    0.055
+isobutanol    n-hexane    108.05    68.95    68.1    0.02
+isoamyl-hexanol    cymene    160.65    175.3    159    0.71
+isoamyl-hexanol    mesitylene    160.65    164    156.3    0.5
+isoamylchloracetate    ethyl oxalate    190.5    185    181.5    0.35
+isoamanol    isoamyl acetate    131.8    138.8    131.3    0.95
+isoamanol    ethylenebromide    131.8    131.5    123.2    0.9
+isoamanol    p-xylene    131.8    138.2    126.8    0.51
+isoamanol    ethyl benzene    131.8    136.15    125.9    0.49
+isoamanol    chlorobenzene    131.8    131.8    124.3    0.36
+isoamanol    isoamylbromide    131.8    120.2    116.4    0.2
+isoamanol    tetrachlorethylene    131.8    120.8    116    0.19
+isoamanol    epichlorhydrin    131.8    116.4    115.35    0.19
+iodobenzene    dimethylaniline    188.55    194.05    187    0.85
+iodobenzene    ethyl acetoacetate    188.55    180.7    178    0.52
+iodobenzene    ethyl oxalate    188.55    185    181.1    0.4
+iasomal alcohol    m-xylene    131.8    139    127    0.53
+ethylidenechloride    carbondisulphide    57.3    46.25    46    0.06
+ethylenedibromide    chlorobenzene    131.5    131.8    129.75    0.55
+ethyliodide    ethyl acetate    72.3    77.05    70.5    0.75
+ethyliodide    acetone    72.3    56.25    56    0.2
+ethylether    methylformate    34.6    31.9    28.25    0.44
+ethylchloracetate    methyllactate    143.5    144.8    140.4    0.52
+ethylbromide    carbondisulphide    38.4    46.25    37.85    0.67
+ethylbromide    methylformate    38.4    31.9    29.85    0.36
+ethylbenzene    propylene dibromide    136.15    141.7    135.95    0.95
+ethanol    tetrachlorethylene    78.3    120.8    77.95    0.81
+ethanol    isoamylbromide    78.3    120.2    77.6    0.715
+ethanol    isobutyliodide    78.3    120    77.65    0.7
+ethanol    toluene    78.3    110.6    76.7    0.68
+ethanol    acetonitrile    78.3    81.6    72.5    0.56
+ethanol    methylcyclohexane    78.3    101.8    73    0.53
+ethanol    methylpropionate    78.3    79.7    73.2    0.52
+ethanol    allyliodide    78.3    102    75.6    0.41
+ethanol    methylethylketone    78.3    79.6    74.8    0.4
+ethanol    isobutylbromide    78.3    91.6    72.7    0.38
+ethanol    cyclohexene    78.3    82.75    66.7    0.35
+ethanol    1,3-cyclohexadiene    78.3    80.8    66.7    0.34
+ethanol    benzene    78.3    80.2    68.24    0.3237
+ethanol    ethyl acetate    78.3    77.15    71.8    0.3098
+ethanol    cyclohexane    78.3    80.75    64.9    0.305
+ethanol    trichlorethylene    78.3    86.95    70.9    0.27
+ethanol    n-hexane    78.3    68.95    58.65    0.21
+ethanol    propylbromide    78.3    71    63    0.17
+ethanol    isobutylchloride    78.3    68.9    61.45    0.163
+ethanol    carbon tetrachloride    78.3    76.7    64.95    0.1585
+ethanol    tert-butylbromide    78.3    73.3    63.8    0.15
+ethanol    ethyliodide    78.3    72.3    63    0.13
+ethanol    diallyl    78.3    60.2    53.5    0.13
+ethanol    cis-acetylene dicoloride    78.3    60.25    57.7    0.098
+ethanol    cis-a-dibromopropylene    78.3    57.8    56.4    0.09
+ethanol    carbondisulphide    78.3    46.2    42.4    0.09
+ethanol    chloroform    78.3    61.16    59.4    0.07
+ethanol    trans-cetylene dichloride    78.3    48.35    46.5    0.06
+ethanol    propylchloride    78.3    46.6    44.9    0.055
+ethanol    ethylbromide    78.3    38.4    37.6    0.03
+diethylketone    nitromethane    102.2    101.2    99.1    0.45
+dichloromethane    methylal    41.5    42.2    39    0.62
+cyclohexanol    carvene    160.65    177.8    159.25    0.735
+cyclohexanol    pentachlorethane    160.65    161.95    157.9    0.36
+cyclohexanol    bromobenzene    160.65    156.15    153.6    0.335
+cyclohexane    1,3-cyclohexadiene    80.75    80.8    79.2    0.52
+chlorobenzene    isobutyl propionate    131.8    136.9    131.2    0.76
+chloracetic acid    p-bromotoluene    186.5    185.2    174    0.47
+chloracetic acid    iodobenzene    186.5    188.55    175.3    0.35
+chloracetic acid    carvene    186.5    177.8    167.8    0.34
+chloracetic acid    o-bromotoluene    186.5    181.75    172.95    0.32
+chloracetic acid    benzylchloride    186.5    179.35    172    0.28
+carvene    methylaniline    177.8    196.1    174.5    0.87
+carvene    o-bromotoluene    177.8    181.75    177.3    0.83
+carvene    aniline    177.8    184.35    171.35    0.612
+carvene    isobutyl lactate    177.8    182.15    172.5    0.6
+carvene    ethyl oxalate    177.8    185    172.2    0.59
+carvene    ethyl acetoacetate    177.8    180.7    169.05    0.57
+carvene    benzaldehyde    177.8    179.2    171.2    0.57
+carvene    dichlorhydrin, a    177.8    174.5    165.75    0.57
+carvene    benzylchloride    177.8    179.35    174.8    0.54
+carvene    ethyl bromisobutyrate, a    177.8    178    174    0.45
+carvene    b- dichlorhydrin    177.8    183    169.3    0.4
+carvene    propyl lactate    177.8    171.7    166.35    0.37
+carvene    methyloxalate    177.8    163.3    156.7    0.25
+carbontetrachloride    methylethylketone    76.75    79.6    73.8    0.71
+carbontetrachloride    ethyl acetate    76.75    77.05    74.75    0.57
+carbonterachloride    methylpropionate    76.75    79.7    75.5    0.6
+carbondisulphide    ethyl acetate    46.25    77.05    46.1    0.97
+carbondisulphide    methylethylketone    46.25    79.6    45.85    0.847
+carbondisulphide    methylacetate    46.25    57    40.15    0.7
+carbondisulphide    acetone    46.25    56.25    39.25    0.66
+carbondisulphide    ethyl formate    46.25    54.15    39.35    0.63
+carbondisulphide    methylal    46.25    42.25    37.25    0.46
+carbondisulphide    methylformate    46.25    31.9    24.75    0.33
+carbondisulphide    methylpropylether    46.25    38.8    36.2    0.18
+carbondisulphide    ethylether    46.25    34.6    34.5    0.01
+butyric acid    carvene    163.5    177.8    160.75    0.55
+butyric acid    p-chlorotoluene    163.5    161.3    156.l3    0.27
+butyric acid    pentachlorethane    163.5    161.95    156.75    0.26
+butyric acid    pinene    163.5    155.8    152    0.25
+butyric acid    water    163.5    100    99.4    0.184
+butyric acid    bromobenzene    163.5    156.15    152.2    0.18
+butyric acid    bromoform    163.5    148.3    146    0.07
+bromobenzene    methyloxalate    156.1    163.3    153.05    0.72
+bromobenzene    ethyl lactate    156.1    154.5    153    0.47
+borneol    nitrobenzene    211.8    210.85    207.75    0.46
+benzylchloride    benzaldehyde    179.35    179.2    177.9    0.5
+benzylchloride    isobutyl lactate    179.35    182.15    178    0.7
+benzylchloride    propyl lactate    179.35    171.7    171.2    0.22
+benzylchloride    cineol    179.35    176.3    175.5    0.19
+benzanol    naphthalene    205.5    218.1    204.3    0.6
+benzanol    nitrobenzene    205.5    210.85    204.3    0.58
+benzene    cyclohexene    80.2    82.75    79.45    0.85
+benzene    methylethylketone    80.2    79.6    78.35    0.625
+benzene    cyclohexane    80.2    80.75    77.5    0.55
+benzene    n-hexane    80.2    68.95    68.87    0.19
+benzene    carbon tetrachloride    80.2    76.75    76.75    0.044
+anisol    isobutyl butyrate    153.85    157    151    0.67
+anisol    a-pinene    153.85    155.8    150.45    0.56
+anisol    ethyl lactate    153.85    155    150    0.44
+amylmethylal    ethyl benzoate    207.5    213    206.1    0.85
+allyliodide    methylpropylketone    102    102.25    100.9    0.66
+allyliodide    diethylketone    102    102.2    100.8    0.66
+allyliodide    ethyl propionate    102    99.1    97.8    0.4
+allanol    epichlorhydrin    96.95    116.4    95.8    0.78
+allanol    nitromethane    96.95    101.2    89    0.6
+allanol    toluene    96.95    110.6    92.4    0.5
+allanol    tetrachlorethylene    96.95    120.8    94    0.49
+allanol    cyclohexene    96.95    82.75    76.3    0.217
+allanol    1,3-cyclohexadiene    96.95    80.8    75.9    0.21
+allanol    cyclohexane    96.95    80.75    74    0.2
+allanol    isobutylbromide    96.95    91.6    83.9    0.18
+allanol    dichloro-bromo-methane    96.95    90.2    85.85    0.175
+allanol    benzene    97.05    80.2    76.75    0.1736
+allanol    trichlorethylene    96.95    86.95    80.95    0.16
+allanol    carbon tetrachloride    96.95    76.75    72.32    0.115
+ally1iodide    propyl acetate    102    101.55    99.6    0.5
+acetone    methylacetate    56.25    57    56.1    0.55
+acetone    diethylamine    56.1    55.5    51.35    0.382
+acetic acid    m-xylene    118.5    139    115.38    0.725
+acetic acid    ethyl benzene    118.5    136.15    114.65    0.66
+acetic acid    chlorobenzene    118.5    131.8    114.65    0.585
+acetic acid    ethylenebromide    118.5    131.5    114.35    0.55
+acetic acid    tetrachlorethylene    118.5    120.8    107.35    0.385
+acetic acid    isobutyliodide    118.5    120    107    0.34
+acetic acid    toluene    118.5    110.7    105.4    0.28
+acetic acid    benzene    118.5    80.2    80.05    0.02
+acetal    isobutyl formate    104.5    98.3    97    0.2
+a-pinene    aniline    155.8    184.35    155.25    0.85
+a-pinene    dichlorhydrin, a    155.8    174.5    152    0.85
+a-pinene    ethyl acetoacetate    155.8    180.7    153.35    0.78
+a-pinene    methylacetoacetate    155.8    169.5    150.5    0.64
+a-pinene    methyloxalate    155.8    163.3    144.1    0.61
+a-pinene    chloracetal    155.8    156.8    151    0.55
+a-pinene    bromobenzene    155.8    156.1    153.4    0.5
+a-pinene    ethyl lactate    155.8    155    147    0.49
