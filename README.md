@@ -1,6 +1,6 @@
 # Multicomponent-Distillation
 
-Program that models a given multicomponent distillation system using the Fenske-Underwood-Gilliland-Kirkbride method.
+Program that models a given multicomponent distillation system using the Fenske-Underwood-Gilliland-Kirkbride method. The project report can be found here: [**Project Memo.pdf**](Project%20Memo.pdf)
 
 ## Directories and Files
 
