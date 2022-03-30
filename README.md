@@ -11,14 +11,14 @@ Program that models a given multicomponent distillation system using the Fenske-
 3. **Results Validation** Contains hand calculations done by Dr. Masse and William Veith to confirm the program's output results
    - **Validation By Eric Maase** By hand re-calculations of the program's model by Eric Maase
    - **Validation By William Veith** By hand re-calculations of the program's model by William Veith
-4. **Project Memo.pdf** An overview of the program, the program results, and future issues that need to be address
-   - **main.h** This header file contains the data structures used across the program and their variables
-   - **main.c** Interacts with the user and calls the appropriate functions
-   - **user.h** Header file contains functions used by user.c
-   - **user.c** evaluates user inputs and ensures they are correct and returns the confirmation values
-   - **fractional.h** Header file contains functions and variables used by the fractional.c file
-   - **fractional.c** Does a multicomponent fractional distillation calculation using the FUGK method
-   - **antoinedata.c** Reads through the .txt file "antoine_data.txt" and extracts the correct antoine coefficients for the problem
+4. [**Project Memo.pdf**]("Project Memo.pdf") An overview of the program, the program results, and future issues that need to be address
+   - [**main.h**] This header file contains the data structures used across the program and their variables
+   - [**main.c**] Interacts with the user and calls the appropriate functions
+   - [**user.h**] Header file contains functions used by user.c
+   - [**user.c**] evaluates user inputs and ensures they are correct and returns the confirmation values
+   - [**fractional.h**] Header file contains functions and variables used by the fractional.c file
+   - [**fractional.c**] Does a multicomponent fractional distillation calculation using the FUGK method
+   - [**antoinedata.c**] Reads through the .txt file "antoine_data.txt" and extracts the correct antoine coefficients for the problem
    - **azeotropedata.c** Reads through the .txt file "azeotrope_data.text" and warns the user if the mixture has an azeotrope
    - **batch.c** Would have done a batch calculation for binary systems. It is not yet ready.
    - **feed.c** Gets feed conditions from the user
